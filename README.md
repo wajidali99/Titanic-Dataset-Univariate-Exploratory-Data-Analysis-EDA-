@@ -1,0 +1,2 @@
+# Titanic-Dataset-Univariate-Exploratory-Data-Analysis-EDA-
+  Performed univariate EDA on Titanic dataset (891 passengers). Analyzed numeric columns (Age, Fare) using descriptive statistics, histograms, and boxplots, and categorical columns (Survived, Pclass) using value counts and bar charts. Detected missing values, outliers, class imbalance, and distribution patterns using Pandas, Matplotlib, Seaborn.
